@@ -1,4 +1,4 @@
-# CS202_design_and_analysis_of_algorithms (Assignment Description)
+# CS202-design-and-analysis-of-algorithms (Assignment Description)
 
 ## Assignment 1
 [Question_1](https://github.com/cskang0121/cs202-design-and-analysis-of-algorithms/tree/main/assignment_1/q1)
