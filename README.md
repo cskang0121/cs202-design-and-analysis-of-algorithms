@@ -1,4 +1,4 @@
-# design-and-analysis-of-algorithms - Assignment Description
+# Design and Analysis of Algorithms - Assignment Description
 
 ## Assignment 1
 [Question_1](https://github.com/cskang0121/design-and-analysis-of-algorithms/tree/main/assignment_1/q1)
