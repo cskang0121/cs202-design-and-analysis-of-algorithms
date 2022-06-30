@@ -1,9 +1,9 @@
-# CS202-design-and-analysis-of-algorithms (Assignment Description)
+# design-and-analysis-of-algorithms - Assignment Description
 
 ## Assignment 1
-[Question_1](https://github.com/cskang0121/cs202-design-and-analysis-of-algorithms/tree/main/assignment_1/q1)
+[Question_1](https://github.com/cskang0121/design-and-analysis-of-algorithms/tree/main/assignment_1/q1)
 
-[Question_2_and_Question_3](https://github.com/cskang0121/cs202-design-and-analysis-of-algorithms/tree/main/assignment_1/q2q3)
+[Question_2_and_Question_3](https://github.com/cskang0121/design-and-analysis-of-algorithms/tree/main/assignment_1/q2q3)
 
 > Problem statement for question 1: "In a far away world in another multi-verse, your final score in a course depends on the marks in 𝑛 exams. This world is weird, so you can place the scores from each exam side by side (in any order you want) to make your final score. So, you are very much interested in maximizing this number. How can you do this? "
 
@@ -18,9 +18,9 @@ I solved this task using "Divide and Conquer" approach. Before jumping into writ
 Following the instructions, I wrote a new recurrence relation and use master’s method to get better complexity for multiplication.
 
 ## Assignment 2
-[Question_1](https://github.com/cskang0121/cs202-design-and-analysis-of-algorithms/blob/main/assignment_2/q1.py)
+[Question_1](https://github.com/cskang0121/design-and-analysis-of-algorithms/blob/main/assignment_2/q1.py)
 
-[Question_1_and_Question_2_Explanation](https://github.com/cskang0121/cs202-design-and-analysis-of-algorithms/blob/main/assignment_2/KANG%20CHIN%20SHEN_Assignment%202%20CS202%20q1q2.pdf)
+[Question_1_and_Question_2_Explanation](https://github.com/cskang0121/design-and-analysis-of-algorithms/blob/main/assignment_2/KANG%20CHIN%20SHEN_Assignment%202%20CS202%20q1q2.pdf)
 
 > Problem statement for question 1 : "You are given a string 𝑥 of length 𝑛 with the characters given as 𝑥[1], 𝑥[2], ... , 𝑥[𝑛] (note the index starts at 1). The problem is to find the minimum number of characters to add to the string so that it becomes a palindrome. A palindrome is a sequence of characters which reads the same backward as forward, such as madam or racecar. In order to do this you need to use dynamic programming. For example, abca can become a palindrome abcba and acbca is a smallest such palindrome obtained by adding characters to abca. Other examples include abbc -> acbbca OR cabbac (note may not be unique) and abbca -> acbbca."
 
@@ -47,7 +47,7 @@ Limit  : 2 1 2 2 2 1 1 1 1 1
 - Explain (in less than 30 words) why the same recursive formulation that you wrote in part (a) does not work anymore. Be precise and write the precise reason.
 
 ## Assignment 3
-[Question_1](https://github.com/cskang0121/cs202-design-and-analysis-of-algorithms/tree/main/assignment_3/q1)
+[Question_1](https://github.com/cskang0121/design-and-analysis-of-algorithms/tree/main/assignment_3/q1)
 
 > Problem statement for question 1 : "Consider a Boolean formula φ in CNF form. You can write an ILP so that a solution of the ILP can tell us if there exists a satisfying assignment for the given formula φ. In this question, you need to write code to implement such an ILP for solving satisfiability problem for given CNF logic formulas. You must use the cvxpy and sympy library for this question."
 
