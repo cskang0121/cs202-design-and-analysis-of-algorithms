@@ -1,4 +1,4 @@
-# Design and Analysis of Algorithms - Assignment Description
+## CS202 Design and Analysis of Algorithms - Assignment Description
 
 This repository contains my solutions for an intermediate course in data structures and algorithms. This course builds on students’ earlier programming experiences, mathematical knowledge (discrete math and linear algebra), and knowledge of data structures, to the question of how to solve problems by designing algorithms for efficiency.  The materials as well as the assignments rely on proficiency with Python programming language. 
 
