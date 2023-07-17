@@ -1,4 +1,4 @@
-## CS202 Design And Analysis Of Algorithms - Assignment Description
+## SMU CS202 Design And Analysis Of Algorithms
 
 This repository contains my solutions for an intermediate course in data structures and algorithms. This course builds on students’ earlier programming experiences, mathematical knowledge (discrete math and linear algebra), and knowledge of data structures, to the question of how to solve problems by designing algorithms for efficiency.  The materials as well as the assignments rely on proficiency with Python programming language. 
 
